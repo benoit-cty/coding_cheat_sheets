@@ -1,2 +1,2 @@
-# coding_interview
-Memo for coding interview
+# coding cheat sheets
+My notes about coding.
